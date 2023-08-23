@@ -1,3 +1,5 @@
 This is the first file I created for SecondRepo!
 
+New line added to cause merge conflict .....hehehe
+
 Making some changes to the file
